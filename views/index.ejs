@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <%- include('./_components/meta.ejs') %>
+  </head>
+  <body>
+    <%- include('./_components/header.ejs') %>
+    <form action="/result" method="post">
+      <select name="station_1" id="">
+        <% data.forEach(element => { %>
+        <option value="<%= element.field1 %>">
+          <%= element.station_name %>
+        </option>
+        <% }) %>
+      </select>
+      <select name="station_2" id="">
+        <% data.forEach(element => { %>
+        <option value="<%= element.field1 %>">
+          <%= element.station_name %>
+        </option>
+        <% }) %>
+      </select>
+      <div class="button">
+        <button type="submit">比較する</button>
+      </div>
+    </form>
+    <%- include('./_components/footer.ejs') %>
+  </body>
+</html>

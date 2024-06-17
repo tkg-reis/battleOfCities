@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --text-center : center;
+    --m-24 : 24px;
+    --gap-36 : 32px;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: var(--gap-36);
+}
+
+select {
+    min-width: 150px;
+    font-size: 24px;
+}
+
+button {
+    min-width: 180px;
+    font-size: 20px;
+}
+
+.title {
+    margin-top: var(--m-24);
+}
+
+.button {
+    text-align: var(--text-center);
+    margin-top: var(--m-24);
+}
+
+.footer {
+    text-align: var(--text-center);
+    margin: var(--m-24);
+}

@@ -1,0 +1,482 @@
+[
+  {
+    "field1": "0",
+    "station_name": "新宿",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "2932"
+  },
+  {
+    "field1": "1",
+    "station_name": "渋谷",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "2473"
+  },
+  {
+    "field1": "2",
+    "station_name": "池袋",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "1940"
+  },
+  {
+    "field1": "3",
+    "station_name": "上野",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "2848"
+  },
+  {
+    "field1": "4",
+    "station_name": "東京",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "4225"
+  },
+  {
+    "field1": "5",
+    "station_name": "品川",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "893"
+  },
+  {
+    "field1": "6",
+    "station_name": "新橋",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "2715"
+  },
+  {
+    "field1": "7",
+    "station_name": "日暮里",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "938"
+  },
+  {
+    "field1": "8",
+    "station_name": "船橋",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "602"
+  },
+  {
+    "field1": "9",
+    "station_name": "本八幡",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "368"
+  },
+  {
+    "field1": "10",
+    "station_name": "市川",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "422"
+  },
+  {
+    "field1": "11",
+    "station_name": "新小岩",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "512"
+  },
+  {
+    "field1": "12",
+    "station_name": "錦糸町",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "1163"
+  },
+  {
+    "field1": "13",
+    "station_name": "柏",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "760"
+  },
+  {
+    "field1": "14",
+    "station_name": "松戸",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "434"
+  },
+  {
+    "field1": "15",
+    "station_name": "北千住",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "851"
+  },
+  {
+    "field1": "16",
+    "station_name": "新浦安",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "260"
+  },
+  {
+    "field1": "17",
+    "station_name": "舞浜",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "124"
+  },
+  {
+    "field1": "18",
+    "station_name": "大井町",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "590"
+  },
+  {
+    "field1": "19",
+    "station_name": "大森",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "813"
+  },
+  {
+    "field1": "20",
+    "station_name": "蒲田",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "1034"
+  },
+  {
+    "field1": "21",
+    "station_name": "川崎",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "1108"
+  },
+  {
+    "field1": "22",
+    "station_name": "横浜",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "1890"
+  },
+  {
+    "field1": "23",
+    "station_name": "戸塚",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "377"
+  },
+  {
+    "field1": "24",
+    "station_name": "大船",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "429"
+  },
+  {
+    "field1": "25",
+    "station_name": "藤沢",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "571"
+  },
+  {
+    "field1": "26",
+    "station_name": "武蔵小杉",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "618"
+  },
+  {
+    "field1": "27",
+    "station_name": "中野",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "729"
+  },
+  {
+    "field1": "28",
+    "station_name": "荻窪",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "607"
+  },
+  {
+    "field1": "29",
+    "station_name": "吉祥寺",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "1256"
+  },
+  {
+    "field1": "30",
+    "station_name": "三鷹",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "452"
+  },
+  {
+    "field1": "31",
+    "station_name": "国分寺",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "390"
+  },
+  {
+    "field1": "32",
+    "station_name": "立川",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "977"
+  },
+  {
+    "field1": "33",
+    "station_name": "八王子",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "852"
+  },
+  {
+    "field1": "34",
+    "station_name": "赤羽",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "600"
+  },
+  {
+    "field1": "35",
+    "station_name": "川口",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "587"
+  },
+  {
+    "field1": "36",
+    "station_name": "浦和",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "679"
+  },
+  {
+    "field1": "37",
+    "station_name": "大宮",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "1395"
+  },
+  {
+    "field1": "38",
+    "station_name": "登戸",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "277"
+  },
+  {
+    "field1": "39",
+    "station_name": "橋本",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "382"
+  },
+  {
+    "field1": "40",
+    "station_name": "武蔵溝ノ口",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "448"
+  },
+  {
+    "field1": "41",
+    "station_name": "町田",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "945"
+  },
+  {
+    "field1": "42",
+    "station_name": "津田沼",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "433"
+  },
+  {
+    "field1": "43",
+    "station_name": "千葉",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "1130"
+  },
+  {
+    "field1": "44",
+    "station_name": "海浜幕張",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "424"
+  },
+  {
+    "field1": "45",
+    "station_name": "茅ヶ崎",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "515"
+  },
+  {
+    "field1": "46",
+    "station_name": "平塚",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "700"
+  },
+  {
+    "field1": "47",
+    "station_name": "仙台",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "2344"
+  },
+  {
+    "field1": "48",
+    "station_name": "海老名",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "449"
+  },
+  {
+    "field1": "49",
+    "station_name": "秋葉原",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "4195"
+  },
+  {
+    "field1": "50",
+    "station_name": "桜木町",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "978"
+  },
+  {
+    "field1": "51",
+    "station_name": "関内",
+    "company": "東日本旅客鉄道",
+    "number_of_stores": "1237"
+  },
+  {
+    "field1": "52",
+    "station_name": "札幌",
+    "company": "北海道旅客鉄道",
+    "number_of_stores": "1859"
+  },
+  {
+    "field1": "53",
+    "station_name": "名古屋",
+    "company": "東海旅客鉄道",
+    "number_of_stores": "2330"
+  },
+  {
+    "field1": "54",
+    "station_name": "京都",
+    "company": "西日本旅客鉄道",
+    "number_of_stores": "914"
+  },
+  {
+    "field1": "55",
+    "station_name": "大阪",
+    "company": "西日本旅客鉄道",
+    "number_of_stores": "3583"
+  },
+  {
+    "field1": "56",
+    "station_name": "天王寺",
+    "company": "西日本旅客鉄道",
+    "number_of_stores": "1293"
+  },
+  {
+    "field1": "57",
+    "station_name": "三ノ宮",
+    "company": "西日本旅客鉄道",
+    "number_of_stores": "2806"
+  },
+  {
+    "field1": "58",
+    "station_name": "広島",
+    "company": "西日本旅客鉄道",
+    "number_of_stores": "1189"
+  },
+  {
+    "field1": "59",
+    "station_name": "博多",
+    "company": "九州旅客鉄道",
+    "number_of_stores": "2966"
+  },
+  {
+    "field1": "60",
+    "station_name": "小倉",
+    "company": "九州旅客鉄道",
+    "number_of_stores": "1223"
+  },
+  {
+    "field1": "61",
+    "station_name": "日本橋",
+    "company": "東京地下鉄",
+    "number_of_stores": "3428"
+  },
+  {
+    "field1": "62",
+    "station_name": "銀座",
+    "company": "東京地下鉄",
+    "number_of_stores": "3949"
+  },
+  {
+    "field1": "63",
+    "station_name": "六本木",
+    "company": "東京地下鉄",
+    "number_of_stores": "978"
+  },
+  {
+    "field1": "64",
+    "station_name": "浅草",
+    "company": "東京地下鉄",
+    "number_of_stores": "1935"
+  },
+  {
+    "field1": "65",
+    "station_name": "練馬",
+    "company": "西武鉄道",
+    "number_of_stores": "401"
+  },
+  {
+    "field1": "66",
+    "station_name": "所沢",
+    "company": "西武鉄道",
+    "number_of_stores": "381"
+  },
+  {
+    "field1": "67",
+    "station_name": "府中",
+    "company": "京王電鉄",
+    "number_of_stores": "481"
+  },
+  {
+    "field1": "68",
+    "station_name": "調布",
+    "company": "京王電鉄",
+    "number_of_stores": "436"
+  },
+  {
+    "field1": "69",
+    "station_name": "春日部",
+    "company": "東武鉄道",
+    "number_of_stores": "353"
+  },
+  {
+    "field1": "70",
+    "station_name": "朝霞台",
+    "company": "東武鉄道",
+    "number_of_stores": "153"
+  },
+  {
+    "field1": "71",
+    "station_name": "川越",
+    "company": "東武鉄道",
+    "number_of_stores": "622"
+  },
+  {
+    "field1": "72",
+    "station_name": "下北沢",
+    "company": "小田急電鉄",
+    "number_of_stores": "555"
+  },
+  {
+    "field1": "73",
+    "station_name": "新百合ヶ丘",
+    "company": "小田急電鉄",
+    "number_of_stores": "344"
+  },
+  {
+    "field1": "74",
+    "station_name": "本厚木",
+    "company": "小田急電鉄",
+    "number_of_stores": "696"
+  },
+  {
+    "field1": "75",
+    "station_name": "上大岡",
+    "company": "京浜急行電鉄",
+    "number_of_stores": "393"
+  },
+  {
+    "field1": "76",
+    "station_name": "横須賀中央",
+    "company": "京浜急行電鉄",
+    "number_of_stores": "617"
+  },
+  {
+    "field1": "77",
+    "station_name": "栄",
+    "company": "名古屋市",
+    "number_of_stores": "2632"
+  },
+  {
+    "field1": "78",
+    "station_name": "京都河原町",
+    "company": "阪急電鉄",
+    "number_of_stores": "1366"
+  },
+  {
+    "field1": "79",
+    "station_name": "難波",
+    "company": "大阪市高速電気軌道",
+    "number_of_stores": "3050"
+  }
+]
