@@ -1,23 +1,46 @@
 <!DOCTYPE html>
 <html lang="ja">
-<head>
+  <head>
     <%- include('./_components/meta.ejs') %>
-</head>
-<body>
+  </head>
+  <body>
     <%- include('./_components/header.ejs') %>
     <div>
-        <canvas id="myChart"></canvas>
+      <canvas id="myChart"></canvas>
     </div>
     <div>
-        <input type="hidden" class="val_1N" name="" value="<%=station_1_name  %>">
-        <input type="hidden" class="val_1NM" name="" value="<%=station_1_number  %>">
-        <input type="hidden" class="val_2N" name="" value="<%=station_2_name  %>">
-        <input type="hidden" class="val_2NM" name="" value="<%=station_2_number  %>">
+      <input
+        type="hidden"
+        class="val_1N"
+        name=""
+        value="<%=station_1_name  %>"
+      />
+      <input
+        type="hidden"
+        class="val_1NM"
+        name=""
+        value="<%=station_1_number  %>"
+      />
+      <input
+        type="hidden"
+        class="val_2N"
+        name=""
+        value="<%=station_2_name  %>"
+      />
+      <input
+        type="hidden"
+        class="val_2NM"
+        name=""
+        value="<%=station_2_number  %>"
+      />
+    </div>
+    <div>
+      <p id="output"></p>
     </div>
     <div>
       <a href="/">比較し直す</a>
     </div>
     <%- include('./_components/footer.ejs') %>
-</body>
+  </body>
   <%- include('./_components/script.ejs') %>
 </html>
